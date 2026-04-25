@@ -1,4 +1,19 @@
-	• Chicago Traffic Camera Analytics Pipeline 								  February 2026
-	   - Built an end-to-end analysis/reporting workflow for Chicago traffic, speed, and red-light camera datasets
-	   - Wrote SQL queries to filter, aggregate, and join camera/violation/location data, automated reporting in Python
-	   - Plotted results to visualize trends and comparisons from the query outputs in Python
+Chicago Traffic Camera Analytics Pipeline
+
+Overview
+Built an end-to-end data analysis pipeline for Chicago traffic datasets.
+
+What I Did
+- Wrote SQL queries to filter and join datasets
+- Automated reporting in Python
+- Visualized trends and comparisons
+
+Tools Used
+- SQL
+- Python (Pandas, Matplotlib)
+- Data Analysis
+
+Outcome
+- Identified traffic patterns
+- Compared violation trends
+- Generated visual reports
