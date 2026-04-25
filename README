@@ -1,0 +1,4 @@
+	• Chicago Traffic Camera Analytics Pipeline 								  February 2026
+	   - Built an end-to-end analysis/reporting workflow for Chicago traffic, speed, and red-light camera datasets
+	   - Wrote SQL queries to filter, aggregate, and join camera/violation/location data, automated reporting in Python
+	   - Plotted results to visualize trends and comparisons from the query outputs in Python
